@@ -1,2 +1,2 @@
 # Codechef-Code-Solutions
-A collection of solutions of the codechef practice problems 
+A collection of solutions of the codechef practice problems (Easy, Medium and Hard)
